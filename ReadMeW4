@@ -1,1 +1,5 @@
 #Week 4
+| Number | Assignment Name | Description |
+| :----: | ------ | ----------- |
+
+Program written where the user has to guess what color the computer is thinking of. The colors are assigned as random numbers and those numbers are assinged to colors. If the user guesses correctly they get a point. The user wins if they reach 10 points.|
